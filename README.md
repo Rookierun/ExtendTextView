@@ -7,5 +7,5 @@
  * 支持: showMoreTxtSize:"展示更多"文字大小
  * 支持: shouldShowEllipse:是否显示...
  
-效果图如下：
+效果图：
  ![image](https://github.com/Rookierun/ExtendTextView/blob/master/screenshot/%E5%B1%95%E5%BC%80%E6%94%B6%E8%B5%B7TextView.gif)
