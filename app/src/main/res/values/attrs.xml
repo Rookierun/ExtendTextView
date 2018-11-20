@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExtendTextView">
+        <attr name="shouldShowEllipse" format="boolean"/>
+        <attr name="maxLineCount" format="integer"/>
+        <attr name="collapseTxtColor" format="color"/>
+        <attr name="showMoreTxtColor" format="color"/>
+        <attr name="collapseTxtSize" format="dimension"/>
+        <attr name="showMoreTxtSize" format="dimension"/>
+    </declare-styleable>
+</resources>
